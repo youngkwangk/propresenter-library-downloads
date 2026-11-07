@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>ProPresenter Library</title>
+    <item>
+      <title>ProPresenter Library 0.1.0</title>
+      <pubDate>Sat, 07 Nov 2026 15:35:52 -0000</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The first release of ProPresenter Library.</p><ul><li>Browse every library in your ProPresenter workspace, search by title, author, CCLI number or lyrics, and preview slides.</li><li>Check presentations against a house style and apply it to many at once, after seeing every change.</li><li>Archive or move presentations to another library. Playlists that use them follow to the new location.</li><li>Last used dates, with lists of presentations that haven&#x27;t been used in a while.</li><li>Categories sorted by Apple Intelligence on your Mac.</li><li>Clean up titles and section names with the Codex CLI, approving each suggestion.</li><li>Every change is backed up and can be undone from History.</li></ul>]]></description>
+      <enclosure url="https://github.com/youngkwangk/propresenter-library-downloads/releases/download/v0.1.0/ProPresenter-Library-0.1.0-arm64.zip" sparkle:edSignature="u1zBFbUpusV7/qp7nYo2FbCCjHKVr1MBbWOGqev97vLCLZ4xgptEPdWYgI1Wk/7H5xQmNqeLLV+k8oorzAhKAQ==" length="4831778" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
